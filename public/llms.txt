@@ -1,0 +1,89 @@
+# חולצות כדורגל מכל העולם — Generative Engine Optimization Map
+
+> A content and fan-focused website dedicated to football jerseys from around the world and from Israeli leagues. The site celebrates the culture, design, and history of football kits, appealing to passionate football fans and jersey collectors. It bridges local Israeli football with the global football scene, covering both domestic clubs and international teams.
+
+---
+
+## Pages
+
+### בית
+https://-636bbd87.zappy5.app
+צללו לעולם המרתק של חולצות כדורגל מקומיות ובינלאומיות. סיפורים, עיצובים ופריטי אספנות שמחברים בין המגרש הישראלי לזירה העולמית. התחילו את המסע שלכם עוד היום.
+
+### סיפורים
+https://-636bbd87.zappy5.app/stories
+גלו את הסיפורים העוצמתיים, התרבויות והרגעים ההיסטוריים שמסתתרים מאחורי כל תלבושת. כתבות עומק לחובבי כדורגל ואספני nfl sports apparel אמיתיים.
+
+### כדורגל ישראלי
+https://-636bbd87.zappy5.app/israeli-football
+חגיגה של הליגות הישראליות: מהקבוצות הגדולות ועד לסיפורי הדרבי. הכירו את התלבושות שמסמלות גאווה מקומית, תשוקה ואהבה למשחק. היכנסו למועדון.
+
+### תלבושות עולם
+https://-636bbd87.zappy5.app/world-kits
+מהדשא באנגליה ועד לחופי ברזיל: אוסף נדיר של תלבושות כדורגל מרחבי הגלובוס. השוו, התרשמו והרחיבו את האוסף עם פריטי eagles football gear ייחודיים.
+
+### צור קשר
+https://-636bbd87.zappy5.app/contact
+יש לכם שאלה על תלבושת נדירה, רעיון לכתבה או סתם בא לכם לדבר כדורגל? אנחנו כאן בשבילכם. צרו קשר והפכו לחלק מהקהילה שמתלהבת מ-nfl sports apparel ומעבר.
+
+### Products
+https://-636bbd87.zappy5.app/products
+המוצרים שלנו - חולצות כדורגל מכל העולם
+
+### Product Detail
+https://-636bbd87.zappy5.app/product/:slug
+פרטי המוצר - חולצות כדורגל מכל העולם
+
+### Category
+https://-636bbd87.zappy5.app/category/:slug
+מוצרים - חולצות כדורגל מכל העולם
+
+### תודה - חולצות כדורגל מכל העולם
+https://-636bbd87.zappy5.app/thank-you
+חולצות כדורגל מכל העולם - תודה - חולצות כדורגל מכל העולם
+
+## Legal & Policy
+
+### Privacy Policy
+https://-636bbd87.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-636bbd87.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-636bbd87.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חולצות כדורגל מכל העולם
+A content and fan-focused website dedicated to football jerseys from around the world and from Israeli leagues. The site celebrates the culture, design, and history of football kits, appealing to passionate football fans and jersey collectors. It bridges local Israeli football with the global football scene, covering both domestic clubs and international teams.
+
+## Target Audience
+- חובבי כדורגל בישראל ובעולם
+- חובבי כדורגל בישראל
+- חובבי כדורגל בינלאומיים
+- אספני מזכרות כדורגל
+
+## Industry
+Sports & Football Merchandise
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-636bbd87.zappy5.app/sitemap.xml
+- Robots: https://-636bbd87.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-636bbd87.zappy5.app/llms-full.txt
+- Products (JSON): https://-636bbd87.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-636bbd87.zappy5.app/product-feed.xml
